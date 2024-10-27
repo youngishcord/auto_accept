@@ -2,3 +2,4 @@ pyside6
 opencv-python
 pillow
 pyautogui
+PyInstaller
